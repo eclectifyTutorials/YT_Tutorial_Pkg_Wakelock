@@ -1,2 +1,2 @@
-# YT_Tutorial_Pkg_Wakelock
-Code for the Youtube tutorial (https://youtu.be/aDbAOm7T9XM) on how to use the Flutter library wakelock
+# Youtube Tutorial Code for Flutter Package *wakelock*
+Code for the Youtube tutorial (https://youtu.be/WBHhnT9zVEU) on how to use the Flutter library wakelock
